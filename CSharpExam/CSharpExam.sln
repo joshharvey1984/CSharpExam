@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpExam", "CSharpExam\CSharpExam.csproj", "{49148F8B-0C58-41A0-A63D-F24362079AE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter1", "Chapter1\Chapter1.csproj", "{04B69B91-AFDE-44FA-B214-389B171F0800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAndDelegates", "EventsAndDelegates\EventsAndDelegates.csproj", "{852399A9-CD9F-4546-A1BB-CC4147356715}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{49148F8B-0C58-41A0-A63D-F24362079AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49148F8B-0C58-41A0-A63D-F24362079AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49148F8B-0C58-41A0-A63D-F24362079AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49148F8B-0C58-41A0-A63D-F24362079AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B69B91-AFDE-44FA-B214-389B171F0800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B69B91-AFDE-44FA-B214-389B171F0800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B69B91-AFDE-44FA-B214-389B171F0800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B69B91-AFDE-44FA-B214-389B171F0800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852399A9-CD9F-4546-A1BB-CC4147356715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852399A9-CD9F-4546-A1BB-CC4147356715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852399A9-CD9F-4546-A1BB-CC4147356715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852399A9-CD9F-4546-A1BB-CC4147356715}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
