@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpExam\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj": {}
+    "C:\\Code\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj": {}
   },
   "projects": {
-    "D:\\CSharpExam\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj": {
+    "C:\\Code\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpExam\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj",
+        "projectUniqueName": "C:\\Code\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj",
         "projectName": "Chapter1",
-        "projectPath": "D:\\CSharpExam\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj",
+        "projectPath": "C:\\Code\\CSharpExam\\CSharpExam\\Chapter1\\Chapter1.csproj",
         "packagesPath": "C:\\Users\\joshh\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpExam\\CSharpExam\\CSharpExam\\Chapter1\\obj\\",
+        "outputPath": "C:\\Code\\CSharpExam\\CSharpExam\\Chapter1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\joshh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

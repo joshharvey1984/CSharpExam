@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter1", "Chapter1\Chapte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAndDelegates", "EventsAndDelegates\EventsAndDelegates.csproj", "{852399A9-CD9F-4546-A1BB-CC4147356715}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDelegate", "CustomDelegate\CustomDelegate.csproj", "{2AF458E3-1AF9-4DDD-AF43-58A9DFE369E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{852399A9-CD9F-4546-A1BB-CC4147356715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852399A9-CD9F-4546-A1BB-CC4147356715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852399A9-CD9F-4546-A1BB-CC4147356715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF458E3-1AF9-4DDD-AF43-58A9DFE369E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF458E3-1AF9-4DDD-AF43-58A9DFE369E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF458E3-1AF9-4DDD-AF43-58A9DFE369E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF458E3-1AF9-4DDD-AF43-58A9DFE369E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
