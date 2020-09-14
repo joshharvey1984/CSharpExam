@@ -1,0 +1,13 @@
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.exe
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.deps.json
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.runtimeconfig.json
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.runtimeconfig.dev.json
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.dll
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.pdb
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.csprojAssemblyReference.cache
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.csproj.CoreCompileInputs.cache
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.AssemblyInfoInputs.cache
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.AssemblyInfo.cs
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.dll
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.pdb
+D:\CSharpExam\CSharpExam\CSharpExam\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.genruntimeconfig.cache

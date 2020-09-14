@@ -15,11 +15,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e33c13f-8a28-498e-a3d3-7c9052578d93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CSharpExam/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpExam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpExam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpExam.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpExam.sln" afterDir="false" />
-    </list>
+    <list default="true" id="4e33c13f-8a28-498e-a3d3-7c9052578d93" name="Default Changelist" comment="Events and Delegates, Lesson 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +128,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Events and Delegates, Lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Events and Delegates, Lesson 1" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1201" height="457" key="GridCell.Tab.0.bottom" timestamp="1600012677690">
@@ -218,6 +216,11 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="1251" y="776" key="Rider.ProjectTemplateDialog.Size/3840.456.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1600011411978" />
+    <state x="305" y="212" key="Vcs.Push.Dialog.v2" timestamp="1600092185262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="305" y="212" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600092185262" />
+    <state x="1920" y="456" key="Vcs.Push.Dialog.v2/1920.456.1920.1040/0.0.1920.1040@1920.456.1920.1040" timestamp="1600091981738" />
     <state x="1306" y="539" key="search.everywhere.popup" timestamp="1600011521504">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>

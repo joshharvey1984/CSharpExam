@@ -1,0 +1,13 @@
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+D:\CSharpExam\CSharpExam\CSharpExam\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.genruntimeconfig.cache
