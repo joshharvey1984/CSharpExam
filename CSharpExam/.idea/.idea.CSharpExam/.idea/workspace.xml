@@ -17,37 +17,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e33c13f-8a28-498e-a3d3-7c9052578d93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpExam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpExam/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpExam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpExam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpExam.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpExam.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/Chapter1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/Chapter1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/Chapter1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/Chapter1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/Debug/netcoreapp3.1/Chapter1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/bin/Debug/netcoreapp3.1/EventsAndDelegates.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/Debug/netcoreapp3.1/EventsAndDelegates.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/EventsAndDelegates.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/EventsAndDelegates.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/EventsAndDelegates.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/EventsAndDelegates.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventsAndDelegates/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EventsAndDelegates/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="4e33c13f-8a28-498e-a3d3-7c9052578d93" name="Default Changelist" comment="Custom Delegates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34957266" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -197,8 +168,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600092817358</updated>
-      <workItem from="1600092828930" duration="2868000" />
+      <workItem from="1600092828930" duration="3184000" />
     </task>
+    <task id="LOCAL-00001" summary="Custom Delegates">
+      <created>1600095988487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600095988487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,28 +200,29 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Events and Delegates, Lesson 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Events and Delegates, Lesson 1" />
+    <MESSAGE value="Custom Delegates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Custom Delegates" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="136" key="GridCell.Tab.0.bottom" timestamp="1600095231966">
+    <state width="1493" height="136" key="GridCell.Tab.0.bottom" timestamp="1600095955332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600095231966" />
+    <state width="1493" height="136" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600095955332" />
     <state width="1201" height="457" key="GridCell.Tab.0.bottom/3840.456.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1600012677690" />
-    <state width="1493" height="136" key="GridCell.Tab.0.center" timestamp="1600095231966">
+    <state width="1493" height="136" key="GridCell.Tab.0.center" timestamp="1600095955332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600095231966" />
+    <state width="1493" height="136" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600095955332" />
     <state width="1201" height="457" key="GridCell.Tab.0.center/3840.456.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1600012677690" />
-    <state width="1493" height="136" key="GridCell.Tab.0.left" timestamp="1600095231966">
+    <state width="1493" height="136" key="GridCell.Tab.0.left" timestamp="1600095955332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600095231966" />
+    <state width="1493" height="136" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600095955332" />
     <state width="1201" height="457" key="GridCell.Tab.0.left/3840.456.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1600012677690" />
-    <state width="1493" height="136" key="GridCell.Tab.0.right" timestamp="1600095231966">
+    <state width="1493" height="136" key="GridCell.Tab.0.right" timestamp="1600095955332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="136" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600095231966" />
+    <state width="1493" height="136" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600095955332" />
     <state width="1201" height="457" key="GridCell.Tab.0.right/3840.456.1920.1030/0.0.3072.1688@0.0.3072.1688" timestamp="1600012677690" />
     <state width="1201" height="457" key="GridCell.Tab.1.bottom" timestamp="1600012677562">
       <screen x="0" y="0" width="3072" height="1688" />
@@ -321,9 +301,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="94" y="94" width="1349" height="637" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1600094188541" />
-    <state x="305" y="212" key="Vcs.Push.Dialog.v2" timestamp="1600092185262">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="244" y="168" key="Vcs.Push.Dialog.v2" timestamp="1600095996432">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="244" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600095996432" />
     <state x="305" y="212" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600092185262" />
     <state x="1920" y="456" key="Vcs.Push.Dialog.v2/1920.456.1920.1040/0.0.1920.1040@1920.456.1920.1040" timestamp="1600091981738" />
     <state x="653" y="263" key="search.everywhere.popup" timestamp="1600094550276">

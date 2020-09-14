@@ -1,0 +1,11 @@
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\bin\Debug\netcoreapp3.1\CustomDelegate.exe
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\bin\Debug\netcoreapp3.1\CustomDelegate.deps.json
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\bin\Debug\netcoreapp3.1\CustomDelegate.runtimeconfig.json
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\bin\Debug\netcoreapp3.1\CustomDelegate.runtimeconfig.dev.json
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\bin\Debug\netcoreapp3.1\CustomDelegate.dll
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\bin\Debug\netcoreapp3.1\CustomDelegate.pdb
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\obj\Debug\netcoreapp3.1\CustomDelegate.csprojAssemblyReference.cache
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\obj\Debug\netcoreapp3.1\CustomDelegate.AssemblyInfoInputs.cache
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\obj\Debug\netcoreapp3.1\CustomDelegate.AssemblyInfo.cs
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\obj\Debug\netcoreapp3.1\CustomDelegate.dll
+C:\Code\CSharpExam\CSharpExam\CustomDelegate\obj\Debug\netcoreapp3.1\CustomDelegate.pdb
